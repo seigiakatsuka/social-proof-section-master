@@ -16,6 +16,10 @@
   --ff-primary: 'League Spartan', sans-serif;
 }
 
+html{
+  font-size: 15px;
+}
+
 body {
   margin: 0;
   font-size: 1rem;
@@ -29,7 +33,9 @@ body {
 
 /*-- Typography --*/
 
-
+.span {
+  color: var(--clr-accent-200)
+}
 
 /* -- Layout -- */
 
