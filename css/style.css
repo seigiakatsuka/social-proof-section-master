@@ -43,6 +43,10 @@ span {
 
 /* -- Layout -- */
 
+.customer {
+  background-color: var(--clr-accent-600);
+}
+
 .customer-image {
   border-radius: 100%;
 }
