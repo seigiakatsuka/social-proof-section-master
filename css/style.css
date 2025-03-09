@@ -33,9 +33,16 @@ body {
 
 /*-- Typography --*/
 
-.span {
-  color: var(--clr-accent-200)
+span {
+  color: var(--clr-accent-200);
+}
+
+.customer-name {
+  color: var(--clr-neutral-300);
 }
 
 /* -- Layout -- */
 
+.customer-image {
+  border-radius: 0%;
+}
